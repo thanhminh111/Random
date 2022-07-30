@@ -1,0 +1,25 @@
+body {
+    text-align: center;
+}
+
+div {
+    display: inline-block;
+}
+
+ol {
+    padding: 0;
+}
+li{
+    list-style: none;
+}
+
+button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #fff;
+    border-radius: 60%;
+}
+button:hover{
+    background-color: #000;
+    color: #fff;
+}
