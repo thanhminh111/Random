@@ -1,25 +1,35 @@
 body {
     text-align: center;
+    background-color: aquamarine;
 }
 
 div {
     display: inline-block;
 }
-
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 50px;
+}
 ol {
     padding: 0;
 }
 li{
     list-style: none;
+    font-size: 25px;
+
 }
 
 button {
     display: inline-block;
-    padding: 10px 20px;
-    background-color: #fff;
+    padding: 20px 40px;
+    background-color: aqua;
     border-radius: 60%;
+    font-size: 30px;
+
 }
 button:hover{
-    background-color: #000;
-    color: #fff;
+    background-color: #fff;
+    color: #000;
 }
